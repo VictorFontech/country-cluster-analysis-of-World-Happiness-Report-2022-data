@@ -11,3 +11,5 @@ I lied.
 
 More information about the database can be found in Technical Box 2 on page:
 https://worldhappiness.report/ed/2022/happiness-benevolence-and-trust-during-covid-19-and-beyond/.
+
+I recommend opening the notebook in case you want to see the interactive graphs, since github is not compatible with these
